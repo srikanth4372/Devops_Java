@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: vmjbnonprodwe005
 
 steps:
 - task: Maven@3
